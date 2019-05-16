@@ -3,5 +3,4 @@
 this is somthing
 Just somthing going on
 
-What you done to edite 
-Update localy
+Updates made on master on GitHub befor rebase
